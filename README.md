@@ -1,11 +1,11 @@
 ![1725651778869](https://github.com/user-attachments/assets/8e793e12-02f2-4aef-88bf-5b410f2cbe7a)
 
 
-🚀Welcome to my GitHub repository! 
+# 🚀Welcome to my GitHub repository! 
 
-👩‍🎓I am an enthusiastic undergraduate student at MKSSS's Cummins College of Engineering for Women, Pune, pursuing a B.Tech in Information Technology with minors in Information Security Management. 
+### 👩‍🎓I am an enthusiastic undergraduate student at MKSSS's Cummins College of Engineering for Women, Pune, pursuing a B.Tech in Information Technology with minors in Information Security Management. 
 
-🖥️ I have a passion for ***coding***, ***problem-solving***, and exploring new technologies.
+### 🖥️ I have a passion for ***coding***, ***problem-solving***, and exploring new technologies.
 
 
 
