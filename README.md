@@ -7,7 +7,8 @@ Welcome to my GitHub repository! I am an enthusiastic undergraduate student at M
 
 
 ## 📫 **Let's Connect!**
-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/shrimayee-adkar/)
+
 
 Feel free to explore my repositories and projects! Contributions, suggestions, and discussions are always welcome. Let’s code and create something innovative together! 🎉
 
