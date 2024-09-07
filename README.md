@@ -1,4 +1,4 @@
-# 💻 Shrimayee Adkar - Student of Information Technology 💻 
+https://media.licdn.com/dms/image/v2/D5616AQFuieJHyUxXtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725651778869?e=1730937600&v=beta&t=_WVEw7N-dg6KZyItBpdjk_YYsxOLbwHB_Ymk0Qokf3A
 
 Welcome to my GitHub repository! I am an enthusiastic undergraduate student at MKSSS's Cummins College of Engineering for Women, Pune, pursuing a B.Tech in Information Technology with minors in Information Security Management. I have a passion for coding, problem-solving, and exploring new technologies. Below, you'll find some of the projects I’ve worked on, showcasing my interest in deep learning, natural language processing, AI-driven games, and more.
 
