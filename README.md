@@ -29,6 +29,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="100"/>
 </a>
 
-## Feel free to explore my repositories and projects! Contributions, suggestions, and discussions are always welcome. Let’s code and create something innovative together! 🎉
+## Feel free to explore my repositories and projects! 
+## Contributions, suggestions, and discussions are always welcome. 
+## Let’s code and create something innovative together! 🎉
 
 ![coding-for-kids](https://github.com/user-attachments/assets/e6ed6b2e-2658-4998-8922-2156e6e70e8e)
