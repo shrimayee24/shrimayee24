@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I am an enthusiastic undergraduate student at M
 
 
 ## 📫 **Let's Connect!**
-<a href=https://www.linkedin.com/in/shrimayee-adkar/">
+<a href="https://www.linkedin.com/in/shrimayee-adkar/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="100"/>
 </a>
 
