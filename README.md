@@ -3,9 +3,17 @@
 
 # 🚀Welcome to my GitHub repository! 
 
-### 👩‍🎓I am an enthusiastic undergraduate student at MKSSS's Cummins College of Engineering for Women, Pune, pursuing a B.Tech in Information Technology with minors in Information Security Management. 
+ 👩‍🎓 I am an enthusiastic undergraduate student at MKSSS's Cummins College of Engineering for Women, Pune.
+ 📚 Pursuing a B.Tech in Information Technology with Minors in Information Security Management🔐.
 
-### 🖥️ I have a passion for ***coding***, ***problem-solving***, and exploring new technologies.
+ ✨ I have a passion for:
+
+💻 **Coding** 
+
+🧠 **Problem-Solving**
+
+
+🔍 **Exploring new technologies!**
 
 
 
@@ -21,3 +29,4 @@
 
 Feel free to explore my repositories and projects! Contributions, suggestions, and discussions are always welcome. Let’s code and create something innovative together! 🎉
 
+![coding-for-kids](https://github.com/user-attachments/assets/e6ed6b2e-2658-4998-8922-2156e6e70e8e)
