@@ -4,9 +4,10 @@
 # 🚀Welcome to my GitHub repository! 
 
  👩‍🎓 I am an enthusiastic undergraduate student at MKSSS's Cummins College of Engineering for Women, Pune.
+ 
  📚 Pursuing a B.Tech in Information Technology with Minors in Information Security Management🔐.
 
- ✨ I have a passion for:
+ ## ✨ I have a passion for:
 
 💻 **Coding** 
 
