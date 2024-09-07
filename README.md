@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I am an enthusiastic undergraduate student at M
 
 
 ## 📫 **Let's Connect!**
-- 
+- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 Feel free to explore my repositories and projects! Contributions, suggestions, and discussions are always welcome. Let’s code and create something innovative together! 🎉
 
