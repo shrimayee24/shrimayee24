@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I am an enthusiastic undergraduate student at M
 
 
 ## 📫 **Let's Connect!**
-- https://www.linkedin.com/in/shrimayee-adkar/overlay/about-this-profile/
+- 
 
 Feel free to explore my repositories and projects! Contributions, suggestions, and discussions are always welcome. Let’s code and create something innovative together! 🎉
 
