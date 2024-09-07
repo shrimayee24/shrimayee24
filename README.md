@@ -19,7 +19,8 @@
 
 
 
-📩 **Let's Connect!**
+
+## 📩 **Let's Connect!**
 <a href="https://www.linkedin.com/in/shrimayee-adkar/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="100"/>
 </a>
