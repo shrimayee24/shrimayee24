@@ -33,4 +33,3 @@
 ## Contributions, suggestions, and discussions are always welcome. 
 ## Let’s code and create something innovative together! 🎉
 
-![coding-for-kids](https://github.com/user-attachments/assets/e6ed6b2e-2658-4998-8922-2156e6e70e8e)
